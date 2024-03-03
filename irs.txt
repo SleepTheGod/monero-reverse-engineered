@@ -1,0 +1,13 @@
+{"cpes":["cpe:/a:openbsd:openssh","cpe:/a:grafana:grafana:8.5.4","cpe:/o:canonical:ubuntu_linux","cpe:/o:linux:linux_kernel","cpe:/a:f5:nginx:1.18.0"],"hostnames":["singapore.node.xmr.pm","vps-13c67259.vps.ovh.ca"],"ip":"51.79.173.165","ports":[22,80,443],"tags":["eol-product"],"vulns":["CVE-2022-31130","CVE-2022-31123","CVE-2022-39307","CVE-2022-36062","CVE-2023-1410","CVE-2023-2183","CVE-2023-0594","CVE-2022-31097","CVE-2022-23498","CVE-2022-39201","CVE-2022-39306","CVE-2022-35957","CVE-2022-31107","CVE-2022-23552","CVE-2021-23017","CVE-2022-39229","CVE-2023-44487","CVE-2021-3618","CVE-2023-0507","CVE-2022-39324"]}
+
+51.79.173.165 IP Address Information
+ISP	OVH Singapore Pte. Ltd
+Usage Type	Data Center/Web Hosting/Transit
+Hostname	vps-13c67259.vps.ovh.ca
+Domain Name	ovh.com
+Country	
+City	Singapore, Singapore
+
+http://paste.org.ru/?xmtyec
+
+https://www.abuseipdb.com/whois/51.79.173.165
